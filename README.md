@@ -33,6 +33,8 @@ For the convenience of conducting cross-subject performance testing, we preproce
 
 
 ## Training model 
+![Alt text](main_map.jpg)
+
 You can update different hyperparameters in the model by updating `config_files/config.py` file.
 
 To train the model, use this command:
