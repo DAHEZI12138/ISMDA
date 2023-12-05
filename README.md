@@ -46,6 +46,9 @@ python train_CD.py --experiment_description XXX --run_description XXX --num_runs
 
 The findings encompass the conclusive classification report of the average performance, along with an individualized folder for each cross-domain scenario containing its respective log file and classification report. We also give the confusion matrix for all subjects as well as the feature distribution plots for individual subjects. The optimal model has been provided in the BEST_MODELS folder.
 
+Frequency responses of two randomly selected temporal filters from the optimal models trained for each subject in BCI IV IIa, and the attention maps of the spatial filters connected behind them.
+![Alt text](topmap.png)
+
 ## Contact
 He Wang   
 School of Electrical and Information Engineering  
