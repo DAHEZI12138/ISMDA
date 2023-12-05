@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="78a9d680-a5ab-473a-b5d1-0613e49ea9d8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/.idea/ISMDA_HGD_Additional_dataset.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/54.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best0.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best1.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best10.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best11.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best12.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best13.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best14.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best15.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best16.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best17.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best18.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best19.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best20.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best21.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best22.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best23.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best24.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best25.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best26.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best27.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best28.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best29.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best3.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best30.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best31.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best32.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best33.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best34.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best35.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best36.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best37.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best38.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best39.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best4.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best40.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best41.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best42.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best43.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best44.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best45.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best46.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best47.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best48.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best49.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best5.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best50.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best51.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best52.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best53.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best6.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best7.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best8.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/best9.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/BEST_MODELS/saved_models/test.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/config_files/configs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/dataloader/dataset54.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/dataloader/preprocess_h5_smt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/loss.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/models/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/pseudo_labeling_util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/train_CD.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/trainer/ISMDA.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/trainer/training_evaluation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ISMDA_HGD_Additional_dataset/utils.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2Z597jH1DvngcUbRdUBTtT8GOO7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="78a9d680-a5ab-473a-b5d1-0613e49ea9d8" name="Changes" comment="" />
+      <created>1701700908048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1701700908048</updated>
+      <workItem from="1701700909500" duration="54000" />
+      <workItem from="1701760180332" duration="11000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
