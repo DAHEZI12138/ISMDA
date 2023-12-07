@@ -22,7 +22,7 @@ doi={10.1109/TNNLS.2023.3243339}}
 | Kwon et al. datasets | - | 57.67 | 80.44 | 89.49 | 85.61 | 90.98 |
 
 
-## Prepare datasets
+## Prepare Datasets
 We used three public datasets in this study:
 - [Dataset IIa of BCI competition IV](https://www.bbci.de/competition/iv/)
 - [High gamma dataset](https://github.com/robintibor/high-gamma-dataset)
@@ -32,7 +32,7 @@ We used three public datasets in this study:
 For the convenience of conducting cross-subject performance testing, we preprocessed the dataset. For example, we merged the train set and test set of the same subject in the High Gamma dataset. Additionally, we followed the settings specified in https://github.com/zhangks98/eeg-adapt/blob/master/preprocess_h5_smt.py to process the Kwon et al. datasets. You can download our processed data at https://www.alipan.com/s/TusMhNbwnpx (9ou7). After downloading, please put it into the DATA folder.
 
 
-## Training model 
+## Training Model 
 ![Alt text](main_map.jpg)
 
 You can update different hyperparameters in the model by updating `config_files/config.py` file.
