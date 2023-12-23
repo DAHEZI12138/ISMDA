@@ -47,8 +47,8 @@ def calculate_raw(PGA, VREF, EEG_raw):
     if A <= 127:  # Positive voltage
         EEGVoltage = k * VIN
     else:  # Negative voltage
-        VIN = ~VIN & 0xFFFFFF  # Two's complement
-        VIN = VIN & 0x7FFFFF  # Mask to 23 bits
+        VIN = ~VIN & 0xFFFFFF  # Two's complement  16777215
+        VIN = VIN & 0x7FFFFF  # Mask to 23 bits   8388607
         EEGVoltage = -k * VIN
 
     return EEGVoltage
